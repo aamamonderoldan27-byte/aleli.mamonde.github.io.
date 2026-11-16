@@ -1,6 +1,6 @@
 # Bitácora de uso de inteligencia artificial
 
-**Estudiante:** Agostina Alelí Mamonde Roldán  
+**Estudiante:** Agostina Alei Mamonde Roldán  
 **Actividad:** Portfolio personal - Clase 2  
 **Fecha de registro:** 16/11/2026
 
